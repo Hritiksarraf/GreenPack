@@ -95,13 +95,13 @@ export default function Footer() {
           </div>
         </div>
         <div data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000" mirror="false" className="my-6 h-[2px] bg-gradient-to-r from-red-500 to-orange-600 sm:mx-auto lg:my-8" />
-        <div  className="sm:flex sm:items-center sm:justify-between">
+        {/* <div  className="sm:flex sm:items-center sm:justify-between">
           <span  className="text-sm text-gray-200 sm:text-center text-center m-auto ">
             Made with ❤️ by Hritik Sarraf
             
             
           </span>
-        </div>
+        </div> */}
       </div>
     </footer>
   );

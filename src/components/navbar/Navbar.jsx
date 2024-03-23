@@ -11,7 +11,7 @@ export default function Navbar() {
             <div className=' flex justify-between items-center justify-center '>
                 <div>
                     <Link to="#home" smooth href="#" className='flex items-center gap-2 text-2xl sm:text-3xl font-bold'>
-                        <img src="https://greenpackinnovations.com/media/IMG-20240305-WA0003-removebg-preview.png" alt="" className='w-10' />
+                        <img src="logo.webp" alt="" className='w-10' />
                         GreenPack
                     </Link>
                 </div>

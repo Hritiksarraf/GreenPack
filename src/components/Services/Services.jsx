@@ -18,6 +18,7 @@ import fries from "../../assets/fries.png"
 import papperBag2 from "../../assets/bag2.png"
 import perfume from "../../assets/perfume.png"
 import glass from "../../assets/glassbottel2.png"
+import cakeBox from "../../assets/cakeBox.png"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -56,9 +57,9 @@ const servicesDate = [
     },
     {
         id: 6,
-        img: papperBag2,
-        name: "Paper Bag",
-        discription: "Our Paper Bags are perfect for packaging a variety of items. Made from durable materials, our bags are designed to keep your products safe and secure. Whether you're packaging groceries, snacks, or gifts, our bags are the perfect choice for all your packaging needs."
+        img: cakeBox,
+        name: "Cake Box",
+        discription: "Present your cakes in style with our Cake Boxes. Crafted to showcase your delicious creations, our boxes are perfect for bakeries, cafes, and special events. Made from high-quality materials, our Cake Boxes keep your cakes fresh and secure during transport. Elevate your brand's image with our elegant and practical packaging solutions."
     },
     {
         id: 7,

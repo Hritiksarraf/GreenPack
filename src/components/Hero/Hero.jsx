@@ -15,6 +15,7 @@ import cup4 from "../../assets/cup4.png"
 import cup5 from "../../assets/cup5.png"
 import cup6 from "../../assets/cup6.png"
 import pizza from "../../assets/pizzaBox.png"
+import cakeBox from "../../assets/cakeBox.png"
 import { HashLink as Link } from 'react-router-hash-link'
 import Pizza2 from "../../assets/pizza2.png"
 import PapperCup from "../../assets/papperCup.png"
@@ -23,7 +24,7 @@ import burger from "../../assets/burgerBox.png"
 const imageList = [
   {
     id: 1,
-    img: bag
+    img: cakeBox
   },
   {
     id: 2,
@@ -94,7 +95,7 @@ export default function Hero() {
   }
 
 
-  const [imageId, setImageId] = React.useState(bag);
+  const [imageId, setImageId] = React.useState(PapperCup);
 
 
   return (
