@@ -15,7 +15,7 @@ export default function Footer() {
               /><span className="text-green-500 mt-8 text-2xl">GREENPACK </span><span className="text-green-800 mt-10 ml-3"> INNOVATIONS</span>
             </Link>
             <div data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000" mirror="false" className="text-sm flex mt-4 justify-end sm:mt-0 text-gray-200 flex-col ">
-              <p className="text-lg text-blue-400 font-medium h  lg:mt-10 w[screen] lg:w-[35vw]">Transforming your visions into vibrant realities,<span className="text-green-600"> GREENPACK INNOVATIONS</span> where sustainable solutions meet cutting edge creativity, redefining packaging excellence.</p>
+              <p className="text-lg text-blue-400 font-medium h  lg:mt- w[screen] lg:pr-16 lg:w-[35vw]"><span className="text-green-600">GreenPack Innovations</span> offers cutting-edge, eco-friendly packaging solutions. Specializing in biodegradable, compostable, and recyclable products, we help brands align with environmental responsibility for a sustainable future.</p>
               
             </div>
           </div>
@@ -94,7 +94,7 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <div data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000" mirror="false" className="my-6 h-[2px] bg-gradient-to-r from-red-500 to-orange-600 sm:mx-auto lg:my-8" />
+        <div  className="my-6 h-[2px] bg-gradient-to-r from-red-500 to-orange-600 sm:mx-auto lg:my-8" />
         {/* <div  className="sm:flex sm:items-center sm:justify-between">
           <span  className="text-sm text-gray-200 sm:text-center text-center m-auto ">
             Made with ❤️ by Hritik Sarraf
