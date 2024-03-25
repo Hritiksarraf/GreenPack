@@ -10,8 +10,8 @@ export default function Navbar() {
         <div className='container py-3 sm:py-0'>
             <div className=' flex justify-between items-center justify-center '>
                 <div>
-                    <Link to="#home" smooth href="#" className='flex items-center gap-2 text-2xl sm:text-3xl font-bold'>
-                        <img src="logo.webp" alt="" className='w-10' />
+                    <Link to="#home" smooth href="#" className='flex items-center gap-2 text-xl sm:text-3xl font-bold'>
+                        <img src="logo.webp" alt="" className='sm:w-10 w-8' />
                         GreenPack
                     </Link>
                 </div>
@@ -37,8 +37,8 @@ export default function Navbar() {
                             <Link smooth to="#contact" className='inline-block p-4 hover:text-primary'>CONTACT</Link>
                         </li>
                     </ul>
-                    <Link to="#contact" smooth className='flex items-center gap-2 text-white bg-gradient-to-r  from-primary to-secondary py-1 px-4 rounded-full sm:hidden  hover:scale-105'>CONTACT
-                    <img width="40" height="40" src="https://img.icons8.com/plasticine/100/phone.png" alt="phone"/>
+                    <Link to="#contact" smooth className='flex items-center text-sm w-24 gap-2 text-white bg-gradient-to-r  from-primary to-secondary py-1 px-4 rounded-full sm:hidden  hover:scale-105'>CONTACT
+                    <img width="40" height="40" className='hidden sm:flex' src="https://img.icons8.com/plasticine/100/phone.png" alt="phone"/>
                     </Link>
                 </div>
             </div>

@@ -9,34 +9,35 @@ AOS.init();
 const TestimonialData = [
     {
         id: 1,
-        name: "Salman",
+        name: "Adil",
         text: "GreenPack's biodegradable packaging is a game-changer, aligning with my eco-conscious values.",
         img: "https://www.shutterstock.com/image-photo/young-handsome-business-man-dressed-260nw-1487434763.jpg"
     },
     {
         id: 1,
-        name: "Abdul",
+        name: "abdullah jawed khan",
         text: "GreenPack's commitment to sustainability shines through in their recyclable products, a win-win for my business and the environment.",
         img: "https://www.shutterstock.com/image-photo/have-great-idea-handsome-businessman-260nw-1282628038.jpg"
     },
     {
         id: 1,
-        name: "Asifa",
+        name: "Shoeba",
         text: "GreenPack's compostable solutions are top-notch, helping me reduce my carbon footprint without compromising quality.",
         img: "https://media.gettyimages.com/id/1310980400/photo/portrait-of-burnout-businesswoman-in-an-office.jpg?s=612x612&w=gi&k=20&c=fLkvB7hcl7zWJIOUBamNe0lbKIkc4kWFQ1vpQrVwTXQ="
     },
     {
         id: 1,
-        name: "Mishba",
+        name: "Zoya khan",
         text: " love how GreenPack's packaging options are both environmentally friendly and stylish, perfect for my brand.",
         img: "https://media.gettyimages.com/id/641199822/photo/businesswomen-at-workstation-in-start-up-office.jpg?s=612x612&w=gi&k=20&c=uk6k1ILVRf7yKT26DtfgemzQtOyISm72Egn5xr_XT_4="
     },
     {
         id: 1,
-        name: "Afia",
-        text: " GreenPack's innovative approach to eco-friendly packaging is commendable, making them my go-to for sustainable solutions.",
-        img: "https://thumbs.dreamstime.com/b/tan-businesswoman-smiling-working-laptop-modern-office-woman-concept-171080849.jpg"
-    }
+        name: "Jawed",
+        text: "GreenPack's compostable solutions are top-notch, helping me reduce my carbon footprint without compromising quality.",
+        img: "https://t4.ftcdn.net/jpg/01/42/20/17/360_F_142201762_qMCuIAolgpz4NbF5T5m66KQJzYzrEbUv.jpg"
+    },
+    
 ]
 
 
